@@ -9,7 +9,8 @@ Label any sentence that does not fall in any of the above four as "Unknown" type
 ### What is this repository? ###
 In this I have created a model to identify the type of question as Who, What, When, Affirmation(yes/no)
 and unknown. Steps followed in the programme :
-1- Read data fron given labelleddata.txt and segregate sentence and label
+
+1- Read data from given labelled data.txt and segregate sentence and label
 
 2- Convert question sentence to corresponding vector using glove.6B.50d.txt
 
